@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    padding:1rem 0
+}
+.heading span{
+    font-size: 2rem;
+    background:#FFE6E6;
+    color:#937825;
+    border-radius: .5rem;
+    padding:.1rem .5rem;
+}
+.heading span.space{
+    background:none;
+}
